@@ -1,0 +1,8 @@
+bin/st-menu-demoapp
+bin/st-menu-demoapp_sl
+bin/st-menu-simple
+bin/st-menu-simple2
+include/st_menu.h
+lib/libst_menu.a
+lib/libst_menu.so
+libdata/pkgconfig/st_menu.pc
